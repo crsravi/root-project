@@ -3,7 +3,7 @@ plugins {
     id 'org.springframework.boot' version '2.7.8'
 }
 
-group 'org.crs'
+group 'com.quantexa.statestreet'
 version '1.0-SNAPSHOT'
 
 repositories {
